@@ -14,6 +14,7 @@ A simple task manager web application built with React and Vite.
 
 ## Getting Started
 
+
 1. Install dependencies:
    ```
    npm install
